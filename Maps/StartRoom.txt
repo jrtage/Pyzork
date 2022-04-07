@@ -1,0 +1,5 @@
+MATCHES Used to light a torch
+NOTE  contains a hint to the whereabouts of the Pickaxe
+KNIFE Can be used for defense
+FOOD  restore 5 points of health
+RIFLE Can be used to kill enemies and defend yourself (Requires AMMO)

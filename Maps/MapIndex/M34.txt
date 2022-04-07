@@ -1,0 +1,4 @@
+MAPNAME AbandonedVillage.txt
+ROOMNAME Abandoned Village
+EXITS EWNS
+   

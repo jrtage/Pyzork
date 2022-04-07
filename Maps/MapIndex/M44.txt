@@ -1,0 +1,4 @@
+MAPNAME Diner.txt
+ROOMNAME Diner
+EXITS W
+   

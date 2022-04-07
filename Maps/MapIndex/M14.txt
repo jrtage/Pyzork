@@ -1,0 +1,4 @@
+MAPNAME Crypt.txt
+ROOMNAME Crypt
+EXITS E
+   

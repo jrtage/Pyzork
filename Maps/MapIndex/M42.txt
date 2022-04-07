@@ -1,0 +1,4 @@
+MAPNAME SouthMountainTrail.txt
+ROOMNAME South Mountain Trail
+EXITS SW
+   

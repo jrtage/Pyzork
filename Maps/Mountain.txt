@@ -1,0 +1,2 @@
+NOTE  contains a hint to the whereabouts of the Pickaxe
+MATCHES  Used to light a torch

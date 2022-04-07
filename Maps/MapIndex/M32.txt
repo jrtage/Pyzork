@@ -1,0 +1,4 @@
+MAPNAME Mountain.txt
+ROOMNAME Mountain Top
+EXITS NES
+   

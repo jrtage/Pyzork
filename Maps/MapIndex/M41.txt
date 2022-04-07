@@ -1,0 +1,4 @@
+MAPNAME DarkPath.txt
+ROOMNAME Dark Path
+EXITS NWE
+   

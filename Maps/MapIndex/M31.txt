@@ -1,0 +1,4 @@
+MAPNAME StartRoom.txt
+ROOMNAME Crashed Wagon
+EXITS NE
+   

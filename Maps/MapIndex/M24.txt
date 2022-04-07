@@ -1,0 +1,4 @@
+MAPNAME Cemetary.txt
+ROOMNAME Cemetary
+EXITS EW
+   

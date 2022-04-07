@@ -1,0 +1,4 @@
+MAPNAME NorthMountainTrail.txt
+ROOMNAME North Mountain Trail
+EXITS NS
+   

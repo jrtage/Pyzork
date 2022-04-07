@@ -1,0 +1,4 @@
+MAPNAME Shop.txt
+ROOMNAME Shop
+EXITS S
+   

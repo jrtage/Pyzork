@@ -1,0 +1,7 @@
+PickUp [item]: Pick up an item that is in the room
+Go [direction(North,East,South,West)]: move in a direction
+Destroy [item]: Destroys that item in your inventory
+Show [(Map or Inventory)]: displays a map (if you have one) or the contents of your inventory
+Search: Searches the room you are in, revealing items
+Use [Cellphone]: 20% chance of rescue, only one use
+Help: Displays this menu

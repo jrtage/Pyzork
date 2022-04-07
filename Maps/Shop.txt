@@ -1,0 +1,3 @@
+NOTE  contains a hint to the whereabouts of the Pickaxe
+KEY used to open locked doors
+MUSHROOM  damages user for 30 points if used

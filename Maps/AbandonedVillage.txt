@@ -1,0 +1,2 @@
+MUSHROOM  damages user for 30 points if used
+KNIFE  can be used for defense

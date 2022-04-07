@@ -1,0 +1,4 @@
+MAPNAME LogCabin.txt
+ROOMNAME Log Cabin
+EXITS WE
+   

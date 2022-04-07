@@ -1,0 +1,4 @@
+MAPNAME DarkCave.txt
+ROOMNAME DarkCave
+EXITS W
+   

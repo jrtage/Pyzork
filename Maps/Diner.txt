@@ -1,0 +1,2 @@
+TORCH  used to light up dark areas of the map. Requires MATCHES
+KNIFE  can be used for defense

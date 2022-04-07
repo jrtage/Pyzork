@@ -1,0 +1,2 @@
+MAP  provides extra detail about rooms
+MATCHES  Used to light a torch

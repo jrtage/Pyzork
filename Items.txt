@@ -1,0 +1,12 @@
+FOOD restore 5 points of health
+MATCHES Used to light a torch
+KNIFE can be used for defense
+TORCH used to light up dark areas of the map. Requires MATCHES
+AMMO used with Rifle. Allows you to fire.
+ROPE Allows player to go back through a one way passage once.
+MAP provides extra detail about rooms
+MUSHROOM damages user for 30 points if used
+CELLPHONE can be used once to call for help (20% chance of working - if it works, game is over and player is rescued).
+NOTE contains a hint to the whereabouts of the Pickaxe
+NONE none
+NONE none

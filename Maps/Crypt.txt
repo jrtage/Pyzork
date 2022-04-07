@@ -1,0 +1,3 @@
+MUSHROOM  damages user for 30 points if used
+FOOD  restore 5 points of health
+PICKAXE used to dig
